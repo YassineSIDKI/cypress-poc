@@ -1,0 +1,14 @@
+{
+  "name": "cypress-poc-icdc",
+  "version": "1.0.0",
+  "description": "cypress poc for icdc teams",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Yassine SIDKI",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^5.3.0"
+  }
+}
